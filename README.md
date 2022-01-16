@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jmfaulk
-- 👀 I’m interested in robotics, rockets, and anything that interacts with the real world. I love computers and solving complex issues
+- 👀 I’m interested in applying software to solve problems as well as have fun along the way. I love computers, robots, and the whole process of software engineering.
 - 🌱 I’m currently learning Computer Science as an undergraduate at NC State University
 - 📫 How to reach me-- message me on linked in: https://www.linkedin.com/in/jaredfaulk/
 
