@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmfaulk
 - 👀 I’m interested in applying software to solve problems as well as have fun along the way. I love computers, robots, and the whole process of software engineering.
-- 🌱 I’m currently learning Computer Science as an undergraduate at NC State University
+- 🌱 Currently working in the heavy duty trucking industry where I automate many of the largest pain points for the R&D department.
 - 📫 How to reach me-- message me on linked in: https://www.linkedin.com/in/jaredfaulk/
 
 <!---
